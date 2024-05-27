@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brain.txt Logger</title>
+</head>
+<body>
+    <script>
+        // Define the URL of your brain.txt file
+        const url = 'https://BambiTP.github.io/Testt/brain.txt';
+
+        // Function to fetch and log the content of the brain.txt file
+        async function logBrainTxt() {
+            try {
+                // Fetch the content of the brain.txt file
+                const response = await fetch(url);
+
+                // Check if the request was successful
+                if (!response.ok) {
+                    throw new Error(`Failed to fetch ${url}: ${response.statusText}`);
+                }
+
+                // Read the content of the file as text
+                const text = await response.text();
+
+                // Log the content of the file to the console
+                console.log(text);
+            } catch (error) {
+                console.error('An error occurred while fetching the brain.txt file:', error);
+            }
+        }
+
+        // Call the function to log the content of the brain.txt file
+        logBrainTxt();
+    </script>
+</body>
+</html>
