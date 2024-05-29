@@ -1,0 +1,1054 @@
+
+MAP
+
+     ◢■■■■                          
+    ◢◤☢  ■■                         
+ ■■■◤▦    ■                         
+ ■☼       ■◣  ■■■■■■◣               
+■■■        ◥■■■     ◥■■■■■          
+■                       ☼■          
+■     ⚑                 ☼■          
+■                       ■■■■■       
+■                           ■■      
+■   •                  ⤧     ■      
+■                            ■      
+■■■■         ■■☢             ◥◣     
+   ◥◣         ■◣              ◥◣    
+    ■          ■          ☼    ■    
+    ■   ⤧                    ◎ ■    
+    ■■◣  ⤧                 ■   ■    
+     ■■        ☼               ■    
+    ■■                         ■    
+    ■                         ■■    
+    ■               ☼        ■■     
+    ■   ■                 ⤧  ◥■■    
+    ■ ◎                    ⤧   ■    
+    ■    ☼          ■          ■    
+    ◥◣              ◥■         ◥◣   
+     ◥◣             ☢■■         ■■■■
+      ■                            ■
+      ■     ⤧                  •   ■
+      ■■                           ■
+       ■■■■■                       ■
+          ■☼                 ⚑     ■
+          ■☼                       ■
+          ■■■■■◣     ■■■◣        ■■■
+               ◥■■■■■■  ◥■       ☼■ 
+                         ■    ▦◢■■■ 
+                         ■■  ☢◢◤    
+                          ■■■■◤     
+Map Name: Haste 
+Map Width: 36
+
+TIMELINE
+0:00.00 ` starts in team 2
+0:00.00 Doris starts in team 2
+0:00.00 DudeMcGuy starts in team 1
+0:00.00 Penis Wings starts in team 1
+0:00.00 Curry starts in team 1
+0:00.00 Homie starts in team 2
+0:00.00 inthesomeday starts in team 2
+0:00.00 vic starts in team 1
+0:04.10 inthesomeday grabs flag 1
+0:04.20 ` starts preventing
+0:04.20 Homie starts preventing
+0:04.50 Homie starts blocking
+0:04.65 ` starts blocking
+0:05.55 inthesomeday starts blocking
+0:09.50 Homie stops blocking
+0:09.65 ` stops blocking
+0:10.55 Penis Wings returns
+0:10.55 inthesomeday stops blocking
+0:10.55 inthesomeday drops flag 1
+0:15.20 Curry starts preventing
+0:16.20 DudeMcGuy starts preventing
+0:17.20 inthesomeday starts preventing
+0:18.20 inthesomeday stops preventing
+0:18.52 ` starts buttoning
+0:18.52 vic starts buttoning
+0:18.77 Doris starts blocking
+0:21.25 inthesomeday starts blocking
+0:22.62 inthesomeday grabs flag 1
+0:23.20 DudeMcGuy stops preventing
+0:23.20 Curry stops preventing
+0:23.52 ` stops buttoning
+0:23.52 vic stops buttoning
+0:23.77 Doris stops blocking
+0:26.25 Curry returns
+0:26.25 inthesomeday stops blocking
+0:26.25 inthesomeday drops flag 1
+0:26.50 Doris grabs flag 1
+0:26.53 inthesomeday starts blocking
+0:30.20 ` stops preventing
+0:31.53 inthesomeday stops blocking
+0:33.45 inthesomeday starts buttoning
+0:34.87 Doris starts blocking
+0:35.20 ` starts preventing
+0:37.15 inthesomeday starts blocking
+0:38.45 inthesomeday stops buttoning
+0:39.87 Doris stops blocking
+0:39.87 Doris drops flag 1
+0:39.87 DudeMcGuy returns
+0:41.22 inthesomeday grabs flag 1
+0:42.15 DudeMcGuy returns
+0:42.15 inthesomeday stops blocking
+0:42.15 inthesomeday drops flag 1
+0:52.22 DudeMcGuy starts preventing
+0:52.22 Curry starts preventing
+0:53.22 Homie stops preventing
+0:54.22 DudeMcGuy stops preventing
+0:55.22 ` stops preventing
+0:55.22 Curry stops preventing
+1:00.28 DudeMcGuy powers up 4
+1:00.65 ` powers up 4
+1:01.20 ` tags
+1:01.20 Curry pops
+1:02.33 DudeMcGuy tags
+1:02.33 inthesomeday pops
+1:04.22 Homie starts preventing
+1:05.90 Penis Wings grabs flag 1
+1:06.15 Penis Wings drops flag 1
+1:06.15 Homie returns
+1:06.68 vic grabs flag 1
+1:07.22 Homie stops preventing
+1:08.87 DudeMcGuy tags
+1:08.87 Homie pops
+1:09.22 Curry starts preventing
+1:09.23 Penis Wings starts blocking
+1:10.32 Doris starts blocking
+1:10.72 ` tags
+1:10.72 Curry pops
+1:11.22 Curry stops preventing
+1:11.65 Doris grabs flag 1
+1:14.23 ` tags
+1:14.23 Penis Wings stops blocking
+1:14.23 Penis Wings pops
+1:15.07 Homie starts blocking
+1:15.32 Doris stops blocking
+1:15.32 Doris drops flag 1
+1:15.32 DudeMcGuy returns
+1:16.68 vic captures flag 1
+1:16.95 Homie grabs flag 1
+1:17.77 ` tags
+1:17.77 ` pops
+1:17.77 DudeMcGuy tags
+1:17.77 DudeMcGuy pops
+1:20.07 Homie stops blocking
+1:20.07 Homie drops flag 1
+1:20.07 vic returns
+1:20.22 Penis Wings starts preventing
+1:20.22 Curry starts preventing
+1:20.22 vic starts preventing
+1:20.28 DudeMcGuy powers down 4
+1:20.63 ` powers down 4
+1:21.22 Penis Wings stops preventing
+1:22.22 Curry stops preventing
+1:22.22 vic stops preventing
+1:23.37 vic starts blocking
+1:25.22 DudeMcGuy starts preventing
+1:25.22 Curry starts preventing
+1:26.22 Homie starts preventing
+1:28.10 vic grabs flag 1
+1:28.22 ` starts preventing
+1:28.37 Homie returns
+1:28.37 vic stops blocking
+1:28.37 vic drops flag 1
+1:29.22 DudeMcGuy stops preventing
+1:32.22 DudeMcGuy starts preventing
+1:33.22 ` stops preventing
+1:33.22 DudeMcGuy stops preventing
+1:33.22 Homie stops preventing
+1:35.22 DudeMcGuy starts preventing
+1:35.22 vic starts preventing
+1:36.22 ` starts preventing
+1:36.22 Homie starts preventing
+1:37.22 ` stops preventing
+1:37.22 vic stops preventing
+1:39.22 ` starts preventing
+1:48.22 Doris starts blocking
+1:50.03 Penis Wings starts blocking
+1:50.22 DudeMcGuy stops preventing
+1:50.22 Curry stops preventing
+1:50.47 Doris grabs flag 1
+1:53.22 Doris stops blocking
+1:53.22 Doris drops flag 1
+1:53.22 Curry returns
+1:54.85 Penis Wings grabs flag 1
+1:55.03 Penis Wings stops blocking
+1:55.23 ` stops preventing
+1:55.23 Homie stops preventing
+1:57.23 DudeMcGuy starts preventing
+1:57.65 ` returns
+1:57.65 Penis Wings drops flag 1
+1:58.45 DudeMcGuy starts buttoning
+1:58.88 inthesomeday grabs flag 1
+1:59.23 DudeMcGuy stops preventing
+2:00.73 Curry powers up 1
+2:01.15 Homie powers up 2
+2:01.35 vic starts blocking
+2:01.52 inthesomeday starts blocking
+2:03.23 ` starts preventing
+2:03.45 DudeMcGuy stops buttoning
+2:06.23 ` stops preventing
+2:06.23 DudeMcGuy starts preventing
+2:06.23 Penis Wings starts preventing
+2:06.35 Curry grabs flag 1
+2:06.52 Penis Wings returns
+2:06.52 inthesomeday stops blocking
+2:06.52 inthesomeday drops flag 1
+2:06.90 Homie grabs flag 1
+2:07.23 DudeMcGuy stops preventing
+2:07.23 Penis Wings stops preventing
+2:07.65 Curry starts blocking
+2:08.52 Doris starts buttoning
+2:10.83 Doris starts blocking
+2:11.60 vic stops blocking
+2:12.65 ` returns
+2:12.65 Curry stops blocking
+2:12.65 Curry drops flag 1
+2:13.23 ` starts preventing
+2:13.23 Doris starts preventing
+2:13.23 inthesomeday starts preventing
+2:13.52 Doris stops buttoning
+2:15.22 ` starts blocking
+2:15.23 ` stops preventing
+2:15.23 Doris stops preventing
+2:15.83 Doris stops blocking
+2:15.87 Homie starts blocking
+2:17.23 ` starts preventing
+2:19.23 inthesomeday stops preventing
+2:20.22 ` stops blocking
+2:20.23 vic starts blocking
+2:20.73 Curry powers down 1
+2:20.87 Homie powers down 2
+2:20.87 Homie stops blocking
+2:21.17 Curry grabs flag 1
+2:21.23 ` stops preventing
+2:22.72 Curry returns
+2:22.72 Curry drops flag 1
+2:22.72 Homie returns
+2:22.72 Homie drops flag 1
+2:22.83 Penis Wings grabs flag 1
+2:22.90 Penis Wings starts blocking
+2:23.98 Doris grabs flag 1
+2:25.23 vic stops blocking
+2:25.63 inthesomeday starts blocking
+2:25.85 Homie starts blocking
+2:27.90 ` returns
+2:27.90 Penis Wings stops blocking
+2:27.90 Penis Wings drops flag 1
+2:28.23 inthesomeday starts preventing
+2:30.23 Homie starts preventing
+2:30.63 inthesomeday stops blocking
+2:31.05 Homie stops blocking
+2:32.23 Doris starts preventing
+2:32.28 Curry starts blocking
+2:32.32 Doris captures flag 1
+2:32.90 inthesomeday starts blocking
+2:34.23 Doris stops preventing
+2:34.23 Penis Wings starts preventing
+2:34.23 inthesomeday stops preventing
+2:34.68 DudeMcGuy grabs flag 1
+2:35.23 Homie stops preventing
+2:36.92 ` grabs flag 1
+2:37.23 Penis Wings stops preventing
+2:37.28 Curry stops blocking
+2:37.90 inthesomeday stops blocking
+2:38.18 ` starts blocking
+2:40.75 DudeMcGuy starts blocking
+2:43.18 ` stops blocking
+2:43.18 ` drops flag 1
+2:43.18 Curry returns
+2:43.63 inthesomeday starts blocking
+2:45.75 Doris returns
+2:45.75 DudeMcGuy stops blocking
+2:45.75 DudeMcGuy drops flag 1
+2:46.12 inthesomeday grabs flag 1
+2:46.60 vic grabs flag 1
+2:48.63 Curry returns
+2:48.63 inthesomeday stops blocking
+2:48.63 inthesomeday drops flag 1
+2:48.67 Doris grabs flag 1
+2:51.77 Doris drops flag 1
+2:51.77 Curry returns
+2:52.23 DudeMcGuy starts preventing
+2:52.23 Curry starts preventing
+2:52.63 inthesomeday returns
+2:52.63 vic drops flag 1
+2:55.23 DudeMcGuy stops preventing
+2:55.23 Curry stops preventing
+2:58.00 inthesomeday grabs flag 1
+3:01.10 Homie powers up 4
+3:01.38 DudeMcGuy pops
+3:01.38 Homie tags
+3:01.43 ` powers up 4
+3:01.87 ` tags
+3:01.87 Penis Wings pops
+3:03.08 Curry grabs flag 1
+3:03.53 Homie starts buttoning
+3:06.57 inthesomeday starts blocking
+3:07.73 Curry starts blocking
+3:07.85 ` pops
+3:08.52 Homie tags
+3:08.52 vic pops
+3:08.53 Homie stops buttoning
+3:11.57 DudeMcGuy returns
+3:11.57 inthesomeday stops blocking
+3:11.57 inthesomeday drops flag 1
+3:11.63 DudeMcGuy pops
+3:11.63 Homie tags
+3:12.73 Doris returns
+3:12.73 Curry stops blocking
+3:12.73 Curry drops flag 1
+3:13.52 Penis Wings grabs flag 1
+3:13.87 Doris grabs flag 1
+3:14.10 vic starts blocking
+3:17.23 Curry pops
+3:17.23 Homie tags
+3:17.48 Homie starts blocking
+3:19.10 Homie tags
+3:19.10 vic stops blocking
+3:19.10 vic pops
+3:21.10 Homie powers down 4
+3:21.43 ` powers down 4
+3:22.48 Homie stops blocking
+3:22.63 ` starts blocking
+3:23.65 Doris starts blocking
+3:25.83 vic starts blocking
+3:26.23 DudeMcGuy starts blocking
+3:27.50 Curry starts blocking
+3:28.35 ` stops blocking
+3:28.65 Doris stops blocking
+3:28.65 Doris drops flag 1
+3:28.65 vic returns
+3:29.23 DudeMcGuy starts preventing
+3:29.23 Curry starts preventing
+3:29.23 vic starts preventing
+3:30.43 Penis Wings starts blocking
+3:30.83 vic stops blocking
+3:31.23 DudeMcGuy stops blocking
+3:32.80 Curry stops blocking
+3:33.45 Homie starts buttoning
+3:34.87 inthesomeday grabs flag 1
+3:35.12 DudeMcGuy returns
+3:35.12 inthesomeday drops flag 1
+3:35.43 ` returns
+3:35.43 Penis Wings stops blocking
+3:35.43 Penis Wings drops flag 1
+3:37.23 vic stops preventing
+3:38.45 Homie stops buttoning
+3:39.68 vic starts blocking
+3:40.30 vic grabs flag 1
+3:41.23 Penis Wings starts preventing
+3:43.23 Penis Wings stops preventing
+3:44.68 Doris returns
+3:44.68 vic stops blocking
+3:44.68 vic drops flag 1
+3:46.23 Doris starts preventing
+3:46.23 inthesomeday starts preventing
+3:47.58 inthesomeday starts blocking
+3:48.23 DudeMcGuy stops preventing
+3:48.23 Curry stops preventing
+3:48.55 Homie grabs flag 1
+3:48.90 Penis Wings starts blocking
+3:53.23 Doris stops preventing
+3:53.73 Penis Wings grabs flag 1
+3:53.90 inthesomeday stops blocking
+3:54.23 inthesomeday stops preventing
+3:54.90 vic starts blocking
+3:54.93 Curry starts blocking
+3:55.07 Penis Wings stops blocking
+3:55.07 Penis Wings drops flag 1
+3:55.07 inthesomeday returns
+3:55.23 Homie starts preventing
+3:55.23 inthesomeday starts preventing
+3:55.32 Homie captures flag 1
+3:58.23 inthesomeday stops preventing
+3:59.18 Penis Wings starts blocking
+3:59.73 vic grabs flag 1
+3:59.90 vic stops blocking
+3:59.93 Curry stops blocking
+4:00.23 Homie stops preventing
+4:01.85 vic starts blocking
+4:02.12 ` powers up 1
+4:02.93 Doris starts blocking
+4:02.98 inthesomeday powers up 4
+4:04.08 ` grabs flag 1
+4:04.18 Penis Wings stops blocking
+4:06.85 Doris returns
+4:06.85 vic stops blocking
+4:06.85 vic drops flag 1
+4:07.28 Curry grabs flag 1
+4:07.90 Curry starts blocking
+4:08.55 Doris stops blocking
+4:11.45 vic starts blocking
+4:12.90 Curry stops blocking
+4:12.90 Curry drops flag 1
+4:12.90 Homie returns
+4:13.02 Penis Wings pops
+4:13.02 inthesomeday tags
+4:13.95 ` captures flag 1
+4:14.23 ` starts preventing
+4:14.23 inthesomeday starts preventing
+4:15.97 Doris starts blocking
+4:16.18 vic grabs flag 1
+4:16.23 Homie starts preventing
+4:16.45 ` returns
+4:16.45 vic stops blocking
+4:16.45 vic drops flag 1
+4:17.23 ` stops preventing
+4:17.23 Homie stops preventing
+4:17.23 inthesomeday stops preventing
+4:18.45 vic starts buttoning
+4:19.08 inthesomeday starts blocking
+4:19.23 Penis Wings starts preventing
+4:19.23 Curry starts preventing
+4:19.70 Doris grabs flag 1
+4:20.23 Penis Wings stops preventing
+4:20.23 Curry stops preventing
+4:20.97 Doris stops blocking
+4:20.97 Doris drops flag 1
+4:20.97 Penis Wings returns
+4:21.23 DudeMcGuy starts preventing
+4:22.10 ` powers down 1
+4:22.23 DudeMcGuy stops preventing
+4:22.40 inthesomeday grabs flag 1
+4:22.97 inthesomeday powers down 4
+4:23.45 vic stops buttoning
+4:23.53 inthesomeday starts buttoning
+4:24.08 inthesomeday stops blocking
+4:24.08 inthesomeday drops flag 1
+4:24.08 vic returns
+4:26.23 ` starts preventing
+4:26.23 Homie starts preventing
+4:27.68 Doris starts blocking
+4:28.25 inthesomeday starts blocking
+4:28.53 inthesomeday stops buttoning
+4:31.23 DudeMcGuy starts preventing
+4:32.07 inthesomeday grabs flag 1
+4:32.23 DudeMcGuy stops preventing
+4:32.68 Doris stops blocking
+4:33.23 DudeMcGuy starts preventing
+4:33.23 Curry starts preventing
+4:33.25 DudeMcGuy returns
+4:33.25 inthesomeday stops blocking
+4:33.25 inthesomeday drops flag 1
+4:34.80 Doris grabs flag 1
+4:35.23 DudeMcGuy stops preventing
+4:35.23 Curry stops preventing
+4:37.33 Doris drops flag 1
+4:37.33 DudeMcGuy returns
+4:40.23 Curry starts preventing
+4:41.23 DudeMcGuy starts preventing
+4:43.53 vic starts buttoning
+4:43.63 Penis Wings grabs flag 1
+4:43.88 Penis Wings drops flag 1
+4:43.88 Homie returns
+4:44.23 DudeMcGuy stops preventing
+4:44.23 Curry stops preventing
+4:48.23 DudeMcGuy starts preventing
+4:48.23 Curry starts preventing
+4:48.53 vic stops buttoning
+4:50.23 Penis Wings starts preventing
+4:50.23 Homie stops preventing
+4:52.23 ` stops preventing
+4:53.23 Penis Wings stops preventing
+4:55.23 DudeMcGuy stops preventing
+4:55.23 Curry stops preventing
+5:00.23 DudeMcGuy starts preventing
+5:02.73 inthesomeday powers up 2
+5:02.75 Doris starts blocking
+5:03.72 vic grabs flag 1
+5:03.90 Curry powers up 4
+5:04.08 ` pops
+5:04.08 Curry tags
+5:05.63 inthesomeday grabs flag 1
+5:06.23 DudeMcGuy stops preventing
+5:06.32 Curry tags
+5:06.32 Homie pops
+5:08.05 Doris stops blocking
+5:17.48 vic starts blocking
+5:20.70 ` pops
+5:20.70 Curry tags
+5:21.48 Curry tags
+5:21.48 Homie pops
+5:22.48 Doris returns
+5:22.48 vic stops blocking
+5:22.48 vic drops flag 1
+5:22.72 inthesomeday powers down 2
+5:22.73 Penis Wings grabs flag 1
+5:23.15 Doris starts blocking
+5:23.90 Curry powers down 4
+5:25.33 Penis Wings starts blocking
+5:28.15 Doris stops blocking
+5:30.33 Doris returns
+5:30.33 Penis Wings stops blocking
+5:30.33 Penis Wings drops flag 1
+5:33.13 inthesomeday starts blocking
+5:34.50 ` starts blocking
+5:34.57 vic starts blocking
+5:37.23 Homie starts preventing
+5:37.87 vic grabs flag 1
+5:38.13 Curry returns
+5:38.13 inthesomeday stops blocking
+5:38.13 inthesomeday drops flag 1
+5:38.23 Homie stops preventing
+5:38.93 Doris grabs flag 1
+5:39.23 Homie starts preventing
+5:39.57 Homie returns
+5:39.57 vic stops blocking
+5:39.57 vic drops flag 1
+5:40.23 Homie stops preventing
+5:40.63 Doris starts blocking
+5:45.18 ` stops blocking
+5:45.63 Doris stops blocking
+5:45.63 Doris drops flag 1
+5:45.63 Curry returns
+5:46.23 DudeMcGuy starts blocking
+5:46.23 Penis Wings starts preventing
+5:46.23 Curry starts preventing
+5:46.23 vic starts preventing
+5:48.23 Penis Wings stops preventing
+5:49.23 inthesomeday starts preventing
+5:49.90 DudeMcGuy grabs flag 1
+5:50.23 inthesomeday stops preventing
+5:51.13 ` starts blocking
+5:51.23 DudeMcGuy stops blocking
+5:51.23 DudeMcGuy drops flag 1
+5:51.23 inthesomeday returns
+5:52.23 Doris starts preventing
+5:52.23 inthesomeday starts preventing
+5:54.25 vic stops preventing
+5:55.25 Doris stops preventing
+5:56.00 ` grabs flag 1
+5:56.13 ` stops blocking
+5:56.25 Curry stops preventing
+5:58.93 Curry pops
+5:59.25 inthesomeday stops preventing
+6:01.68 Penis Wings grabs flag 1
+6:03.33 Homie powers up 4
+6:04.72 Doris powers up 1
+6:07.12 DudeMcGuy starts blocking
+6:12.12 DudeMcGuy stops blocking
+6:14.30 DudeMcGuy starts blocking
+6:15.53 Curry pops
+6:15.53 Homie tags
+6:16.40 vic starts blocking
+6:18.53 Penis Wings starts buttoning
+6:19.30 DudeMcGuy stops blocking
+6:19.30 DudeMcGuy pops
+6:19.30 Homie tags
+6:19.83 Penis Wings starts blocking
+6:21.48 Curry starts blocking
+6:23.32 Homie powers down 4
+6:23.53 Penis Wings stops buttoning
+6:23.53 Homie starts blocking
+6:24.70 Doris powers down 1
+6:24.83 Doris returns
+6:24.83 Penis Wings stops blocking
+6:24.83 Penis Wings drops flag 1
+6:25.03 DudeMcGuy pops
+6:25.25 inthesomeday starts preventing
+6:25.68 vic grabs flag 1
+6:26.25 inthesomeday stops preventing
+6:27.93 Curry stops blocking
+6:28.53 Homie stops blocking
+6:28.65 Doris returns
+6:28.65 vic stops blocking
+6:28.65 vic drops flag 1
+6:28.68 ` captures flag 1
+6:29.25 ` starts preventing
+6:29.25 Homie starts preventing
+6:31.25 DudeMcGuy starts preventing
+6:31.25 Penis Wings starts preventing
+6:33.03 inthesomeday starts blocking
+6:33.25 DudeMcGuy stops preventing
+6:33.25 Penis Wings stops preventing
+6:34.25 DudeMcGuy starts preventing
+6:34.25 Penis Wings starts preventing
+6:34.40 Doris starts blocking
+6:34.97 Doris grabs flag 1
+6:35.25 DudeMcGuy stops preventing
+6:35.25 Penis Wings stops preventing
+6:39.25 DudeMcGuy starts preventing
+6:39.25 Penis Wings starts preventing
+6:39.25 vic starts preventing
+6:39.40 Doris stops blocking
+6:39.40 Doris drops flag 1
+6:39.40 vic returns
+6:39.65 inthesomeday grabs flag 1
+6:40.25 ` stops preventing
+6:40.25 DudeMcGuy stops preventing
+6:40.25 Penis Wings stops preventing
+6:40.25 vic stops preventing
+6:41.07 DudeMcGuy returns
+6:41.07 inthesomeday stops blocking
+6:41.07 inthesomeday drops flag 1
+6:43.25 DudeMcGuy starts preventing
+6:43.25 vic starts preventing
+6:45.25 Doris starts preventing
+6:47.28 inthesomeday starts blocking
+6:47.92 Penis Wings starts blocking
+6:49.25 Homie stops preventing
+6:50.03 inthesomeday grabs flag 1
+6:50.25 DudeMcGuy stops preventing
+6:50.25 Homie starts preventing
+6:50.25 vic stops preventing
+6:50.38 ` starts blocking
+6:50.42 vic pops
+6:50.63 Penis Wings grabs flag 1
+6:51.25 Doris stops preventing
+6:51.25 Homie stops preventing
+6:52.25 DudeMcGuy starts preventing
+6:52.28 DudeMcGuy returns
+6:52.28 inthesomeday stops blocking
+6:52.28 inthesomeday drops flag 1
+6:52.92 Doris returns
+6:52.92 Penis Wings stops blocking
+6:52.92 Penis Wings drops flag 1
+6:53.25 DudeMcGuy stops preventing
+6:53.25 Homie starts preventing
+6:53.55 ` grabs flag 1
+6:55.25 Homie stops preventing
+6:55.38 ` stops blocking
+6:55.38 ` drops flag 1
+6:55.38 DudeMcGuy returns
+7:03.72 ` powers up 1
+7:04.88 ` starts blocking
+7:05.02 Penis Wings powers up 1
+7:06.83 ` grabs flag 1
+7:07.77 vic starts blocking
+7:09.18 Homie pops
+7:09.88 ` stops blocking
+7:09.88 ` drops flag 1
+7:09.88 Curry returns
+7:09.97 Curry pops
+7:10.25 inthesomeday starts preventing
+7:10.92 Penis Wings grabs flag 1
+7:11.25 inthesomeday stops preventing
+7:11.98 Penis Wings starts blocking
+7:11.98 Curry starts blocking
+7:12.77 vic stops blocking
+7:13.25 DudeMcGuy starts preventing
+7:16.25 Curry starts preventing
+7:16.98 Doris returns
+7:16.98 Penis Wings stops blocking
+7:16.98 Penis Wings drops flag 1
+7:16.98 Curry stops blocking
+7:17.72 vic grabs flag 1
+7:18.85 Curry starts blocking
+7:19.12 DudeMcGuy starts blocking
+7:19.57 vic starts blocking
+7:21.42 inthesomeday starts blocking
+7:22.58 Homie starts blocking
+7:23.25 DudeMcGuy stops preventing
+7:23.72 ` powers down 1
+7:23.85 Curry stops blocking
+7:24.25 DudeMcGuy starts preventing
+7:24.40 DudeMcGuy stops blocking
+7:24.57 Homie returns
+7:24.57 vic stops blocking
+7:24.57 vic drops flag 1
+7:24.75 ` starts blocking
+7:25.02 Penis Wings powers down 1
+7:26.25 DudeMcGuy stops preventing
+7:26.25 Curry stops preventing
+7:26.30 ` grabs flag 1
+7:27.12 Penis Wings starts blocking
+7:27.25 Doris starts preventing
+7:27.63 inthesomeday stops blocking
+7:28.47 Curry starts buttoning
+7:29.32 inthesomeday starts blocking
+7:29.75 ` stops blocking
+7:29.75 ` drops flag 1
+7:29.75 DudeMcGuy returns
+7:30.00 inthesomeday grabs flag 1
+7:31.92 Penis Wings grabs flag 1
+7:32.12 Penis Wings stops blocking
+7:32.15 Doris returns
+7:32.15 Penis Wings drops flag 1
+7:32.25 Doris stops preventing
+7:33.47 Curry stops buttoning
+7:33.80 Homie stops blocking
+7:34.25 DudeMcGuy starts preventing
+7:34.25 Curry starts preventing
+7:34.25 vic starts preventing
+7:34.32 inthesomeday stops blocking
+7:34.32 inthesomeday drops flag 1
+7:34.32 vic returns
+7:37.25 DudeMcGuy stops preventing
+7:37.25 Curry stops preventing
+7:37.25 vic stops preventing
+7:38.25 DudeMcGuy starts preventing
+7:38.88 Penis Wings starts blocking
+7:39.25 Curry starts preventing
+7:40.25 ` starts preventing
+7:40.25 Homie starts preventing
+7:40.92 vic grabs flag 1
+7:41.25 ` stops preventing
+7:41.25 Homie stops preventing
+7:41.75 ` returns
+7:41.75 vic drops flag 1
+7:42.25 ` starts preventing
+7:42.25 Homie starts preventing
+7:43.25 ` stops preventing
+7:43.25 Homie stops preventing
+7:43.53 Penis Wings grabs flag 1
+7:43.88 ` returns
+7:43.88 Penis Wings stops blocking
+7:43.88 Penis Wings drops flag 1
+7:44.20 Doris starts blocking
+7:45.82 inthesomeday starts blocking
+7:47.83 inthesomeday grabs flag 1
+7:48.25 DudeMcGuy stops preventing
+7:48.25 Curry stops preventing
+7:49.50 Doris stops blocking
+7:50.82 DudeMcGuy returns
+7:50.82 inthesomeday stops blocking
+7:50.82 inthesomeday drops flag 1
+7:51.25 ` starts preventing
+7:51.25 DudeMcGuy starts preventing
+7:51.25 Curry starts preventing
+7:51.25 Homie starts preventing
+7:53.25 DudeMcGuy stops preventing
+7:53.25 Curry stops preventing
+7:53.63 Penis Wings starts blocking
+7:53.67 Doris starts blocking
+7:55.25 DudeMcGuy starts preventing
+7:55.25 Curry starts preventing
+7:56.05 Doris grabs flag 1
+7:56.25 DudeMcGuy stops preventing
+7:56.25 Curry stops preventing
+7:56.95 Penis Wings grabs flag 1
+7:57.25 ` stops preventing
+7:57.25 Homie stops preventing
+7:57.92 vic starts blocking
+7:58.25 ` starts preventing
+7:58.25 Homie starts preventing
+7:58.62 Curry tags
+7:58.62 inthesomeday pops
+7:58.63 ` returns
+7:58.63 Penis Wings stops blocking
+7:58.63 Penis Wings drops flag 1
+7:58.67 Doris stops blocking
+7:58.67 Doris drops flag 1
+7:58.67 DudeMcGuy returns
+7:58.82 vic grabs flag 1
+7:59.25 ` stops preventing
+7:59.25 Homie stops preventing
+8:02.92 ` returns
+8:02.92 vic stops blocking
+8:02.92 vic drops flag 1
+8:04.47 DudeMcGuy powers up 2
+8:06.03 Doris powers up 2
+8:06.82 inthesomeday grabs flag 1
+8:09.25 ` starts preventing
+8:09.25 Homie starts preventing
+8:09.33 Penis Wings starts blocking
+8:09.85 DudeMcGuy starts blocking
+8:14.18 DudeMcGuy grabs flag 1
+8:14.25 ` stops preventing
+8:14.25 Homie stops preventing
+8:14.85 DudeMcGuy powers down 2
+8:14.85 DudeMcGuy stops blocking
+8:14.87 Penis Wings stops blocking
+8:16.77 inthesomeday drops flag 1
+8:16.85 DudeMcGuy starts blocking
+8:17.25 Curry starts preventing
+8:17.67 Doris grabs flag 1
+8:17.93 Doris starts blocking
+8:18.22 inthesomeday starts blocking
+8:18.25 Curry stops preventing
+8:21.85 ` returns
+8:21.85 DudeMcGuy stops blocking
+8:21.85 DudeMcGuy drops flag 1
+8:22.93 Doris powers down 2
+8:22.93 Doris stops blocking
+8:23.22 inthesomeday stops blocking
+8:24.25 Doris starts preventing
+8:24.25 inthesomeday starts preventing
+8:24.50 Doris captures flag 1
+8:25.42 vic starts blocking
+8:25.83 Homie grabs flag 1
+8:27.25 ` starts preventing
+8:28.67 vic grabs flag 1
+8:29.25 ` stops preventing
+8:29.25 Doris stops preventing
+8:29.25 inthesomeday stops preventing
+8:30.25 ` starts preventing
+8:30.25 Doris starts preventing
+8:30.25 inthesomeday starts preventing
+8:30.42 ` returns
+8:30.42 vic stops blocking
+8:30.42 vic drops flag 1
+8:30.80 Doris starts blocking
+8:31.82 Curry starts blocking
+8:32.07 Penis Wings starts blocking
+8:32.25 Doris stops preventing
+8:35.97 Penis Wings grabs flag 1
+8:36.25 ` stops preventing
+8:36.25 inthesomeday stops preventing
+8:36.80 Homie drops flag 1
+8:36.80 vic returns
+8:36.93 Doris grabs flag 1
+8:37.07 ` returns
+8:37.07 Penis Wings stops blocking
+8:37.07 Penis Wings drops flag 1
+8:37.07 Curry stops blocking
+8:37.25 ` starts preventing
+8:37.25 inthesomeday starts preventing
+8:38.08 Doris stops blocking
+8:38.08 Doris drops flag 1
+8:38.08 DudeMcGuy returns
+8:40.25 inthesomeday stops preventing
+8:43.25 Homie starts preventing
+8:46.25 DudeMcGuy starts preventing
+8:47.25 Penis Wings starts preventing
+8:48.60 Doris starts blocking
+8:51.25 DudeMcGuy stops preventing
+8:51.25 Penis Wings stops preventing
+8:51.47 inthesomeday grabs flag 1
+8:51.73 DudeMcGuy returns
+8:51.73 inthesomeday drops flag 1
+8:52.27 Doris grabs flag 1
+8:52.33 Curry starts blocking
+8:52.43 vic starts blocking
+8:53.60 Doris stops blocking
+8:53.60 Doris drops flag 1
+8:53.60 Penis Wings returns
+8:54.25 ` stops preventing
+8:57.18 vic grabs flag 1
+8:57.33 Curry stops blocking
+8:57.43 Homie returns
+8:57.43 vic stops blocking
+8:57.43 vic drops flag 1
+8:58.25 Homie stops preventing
+8:58.60 Curry starts blocking
+8:58.63 Curry grabs flag 1
+9:03.60 Curry stops blocking
+9:03.60 Curry drops flag 1
+9:03.60 Homie returns
+9:04.78 DudeMcGuy powers up 2
+9:05.60 Doris grabs flag 1
+9:06.67 Penis Wings powers up 2
+9:08.23 Penis Wings starts blocking
+9:08.98 DudeMcGuy starts blocking
+9:09.95 inthesomeday starts blocking
+9:10.33 DudeMcGuy grabs flag 1
+9:13.98 DudeMcGuy powers down 2
+9:14.08 Penis Wings stops blocking
+9:14.95 inthesomeday stops blocking
+9:15.03 Curry starts blocking
+9:15.03 Homie starts blocking
+9:15.27 ` starts blocking
+9:17.10 DudeMcGuy stops blocking
+9:17.10 DudeMcGuy drops flag 1
+9:17.10 Homie returns
+9:17.25 Homie starts preventing
+9:18.25 Homie stops preventing
+9:18.42 Penis Wings grabs flag 1
+9:20.03 Curry stops blocking
+9:20.03 Homie stops blocking
+9:20.27 ` stops blocking
+9:20.77 Curry starts blocking
+9:20.90 Doris drops flag 1
+9:20.90 Penis Wings returns
+9:20.90 Penis Wings powers down 2
+9:23.25 DudeMcGuy starts preventing
+9:23.77 inthesomeday grabs flag 1
+9:24.25 DudeMcGuy stops preventing
+9:25.02 Penis Wings returns
+9:25.02 Penis Wings drops flag 1
+9:25.02 inthesomeday returns
+9:25.02 inthesomeday drops flag 1
+9:25.25 DudeMcGuy starts preventing
+9:25.27 Curry grabs flag 1
+9:25.60 Doris starts blocking
+9:25.77 Doris returns
+9:25.77 Curry stops blocking
+9:25.77 Curry drops flag 1
+9:26.23 ` starts blocking
+9:26.25 DudeMcGuy stops preventing
+9:26.43 ` grabs flag 1
+9:30.15 Homie starts blocking
+9:30.25 Doris starts preventing
+9:31.13 Doris stops blocking
+9:31.23 ` stops blocking
+9:31.23 ` drops flag 1
+9:31.23 vic returns
+9:32.17 Homie grabs flag 1
+9:32.85 DudeMcGuy grabs flag 1
+9:33.10 Doris returns
+9:33.10 DudeMcGuy drops flag 1
+9:35.15 Penis Wings returns
+9:35.15 Homie stops blocking
+9:35.15 Homie drops flag 1
+9:36.85 Doris starts blocking
+9:37.25 ` starts preventing
+9:37.25 Doris stops preventing
+9:41.25 Homie starts preventing
+9:41.50 Doris grabs flag 1
+9:41.85 Doris stops blocking
+9:41.85 Doris drops flag 1
+9:41.85 DudeMcGuy returns
+9:42.25 DudeMcGuy starts preventing
+9:42.25 Curry starts preventing
+9:43.10 vic starts blocking
+9:45.25 ` stops preventing
+9:45.25 Homie stops preventing
+9:45.58 ` starts blocking
+9:46.10 Doris starts blocking
+9:46.23 vic grabs flag 1
+9:47.93 Penis Wings starts blocking
+9:48.10 Homie returns
+9:48.10 vic stops blocking
+9:48.10 vic drops flag 1
+9:48.35 Penis Wings grabs flag 1
+9:49.73 inthesomeday grabs flag 1
+9:50.25 DudeMcGuy stops preventing
+9:50.25 Curry stops preventing
+9:50.95 inthesomeday starts blocking
+9:51.10 Doris stops blocking
+9:52.93 Penis Wings stops blocking
+9:52.93 Penis Wings drops flag 1
+9:52.93 Homie returns
+9:53.23 Doris starts blocking
+9:53.40 Curry starts blocking
+9:54.72 ` stops blocking
+9:55.95 Curry returns
+9:55.95 inthesomeday stops blocking
+9:55.95 inthesomeday drops flag 1
+9:56.20 Doris grabs flag 1
+9:56.25 Homie starts preventing
+9:57.97 Curry grabs flag 1
+9:58.23 Doris stops blocking
+9:58.23 Doris drops flag 1
+9:58.23 DudeMcGuy returns
+9:58.40 Curry stops blocking
+9:58.40 Curry drops flag 1
+9:58.40 Homie returns
+9:59.27 Homie stops preventing
+9:59.82 vic grabs flag 1
+10:00.03 ` ends in team 2
+10:00.03 Doris ends in team 2
+10:00.03 DudeMcGuy ends in team 1
+10:00.03 Penis Wings ends in team 1
+10:00.03 Curry ends in team 1
+10:00.03 Homie ends in team 2
+10:00.03 inthesomeday ends in team 2
+10:00.03 vic ends in team 1
+
+TEAM 1 (MHGW) SPLATS
+1:01.20 (1187,574)
+1:06.15 (1178,1194)
+1:10.72 (358,203)
+1:14.23 (488,315)
+1:17.77 (507,274)
+1:28.37 (1168,1148)
+1:57.65 (1144,812)
+2:12.65 (1351,1156)
+2:22.72 (1147,1259)
+2:27.90 (620,205)
+2:45.75 (369,251)
+2:52.63 (1171,1322)
+3:01.38 (232,862)
+3:01.87 (1140,539)
+3:08.52 (1262,1003)
+3:11.63 (1228,985)
+3:12.73 (539,317)
+3:17.23 (268,297)
+3:19.10 (314,611)
+3:35.43 (290,198)
+3:44.68 (1222,935)
+3:55.07 (1217,1279)
+4:06.85 (567,347)
+4:12.90 (761,872)
+4:13.02 (1069,1179)
+4:16.45 (1196,1123)
+4:43.88 (1163,1179)
+5:22.48 (128,124)
+5:30.33 (517,389)
+5:39.57 (1132,1262)
+5:51.23 (1132,1304)
+5:58.93 (600,607)
+6:15.53 (1179,979)
+6:19.30 (845,561)
+6:24.83 (1138,817)
+6:25.03 (569,652)
+6:28.65 (838,849)
+6:50.42 (113,120)
+6:52.92 (851,1191)
+7:09.97 (832,757)
+7:16.98 (254,473)
+7:24.57 (309,394)
+7:32.15 (1132,1172)
+7:41.75 (1219,1289)
+7:43.88 (1199,1159)
+7:58.63 (979,1183)
+8:02.92 (1053,904)
+8:21.85 (301,547)
+8:30.42 (1340,1081)
+8:37.07 (1159,1137)
+8:57.43 (1134,1167)
+9:03.60 (519,335)
+9:17.10 (1306,1100)
+9:25.02 (443,199)
+9:25.77 (1142,1195)
+9:33.10 (1130,1144)
+9:48.10 (1135,984)
+9:52.93 (1355,1011)
+9:58.40 (1158,1173)
+
+TEAM 2 (MMIA) SPLATS
+0:10.55 (1284,1190)
+0:26.25 (108,301)
+0:39.87 (1021,321)
+0:42.15 (270,344)
+1:02.33 (199,853)
+1:08.87 (1209,1137)
+1:15.32 (566,216)
+1:17.77 (544,279)
+1:20.07 (328,78)
+1:53.22 (266,403)
+2:06.52 (192,139)
+2:22.72 (1111,1271)
+2:43.18 (1102,715)
+2:48.63 (311,389)
+2:51.77 (228,46)
+3:07.85 (823,783)
+3:11.57 (1253,1018)
+3:28.65 (395,403)
+3:35.12 (218,264)
+4:20.97 (236,511)
+4:24.08 (176,250)
+4:33.25 (51,251)
+4:37.33 (205,62)
+5:04.08 (1164,594)
+5:06.32 (962,319)
+5:20.70 (395,196)
+5:21.48 (346,242)
+5:38.13 (395,330)
+5:45.63 (112,337)
+6:39.40 (405,256)
+6:41.07 (106,199)
+6:52.28 (276,88)
+6:55.38 (284,525)
+7:09.18 (1161,1300)
+7:09.88 (804,687)
+7:29.75 (404,235)
+7:34.32 (98,240)
+7:50.82 (224,54)
+7:58.62 (198,104)
+7:58.67 (119,178)
+8:16.77 (472,1163)
+8:36.80 (204,105)
+8:38.08 (278,356)
+8:51.73 (221,115)
+8:53.60 (421,334)
+9:20.90 (1053,893)
+9:25.02 (423,228)
+9:31.23 (908,1131)
+9:35.15 (215,494)
+9:41.85 (156,267)
+9:55.95 (800,1030)
+9:58.23 (279,312)
