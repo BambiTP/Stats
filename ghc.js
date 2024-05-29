@@ -2,14 +2,40 @@
 const lastAction = {};
         // Function to handle file input
         // Function to handle file input
-document.getElementById('fileInput').addEventListener('change', handleFileSelect);
+async function getFiles() {
+    const folderPath = 'stats/matches';
 
-function handleFileSelect(event) {
-    const file = event.target.files[0];
+    try {
+        // Fetch the list of files in the specified folder from the GitHub repository
+        const response = await fetch(`https://bambitp.github.io/${folderPath}`);
+        const fileList = await response.text();
+
+        // Assuming the fileList is in a format that can be split into individual file names
+        const files = fileList.split('\n');
+
+        // Iterate through each file
+        for (const file of files) {
+            if (file.trim() !== '') {
+                // Fetch the contents of each file
+                const fileResponse = await fetch(`https://bambitp.github.io/${folderPath}/${file}`);
+                const fileContent = await fileResponse.text();
+
+                // Send the file name and file content to the handleFileSelect function
+                handleFileSelect(file, fileContent);
+            }
+        }
+    } catch (error) {
+        console.error('Error fetching files:', error);
+    }
+}
+
+
+function handleFileSelect(fileName, fileContent) {
+    const file = fileContent.target.files[0];
     const reader = new FileReader();
 
-    reader.onload = function(event) {
-        const content = event.target.result;
+    reader.onload = function(file) {
+        const content = fileContent.target.result;
         const teams = extractTeam(content); // Extract teams first
         const actions = extractActions(content, teams); // Pass teams object to extractActions
         calculateTotalGrabholdForEachArray(actions);
