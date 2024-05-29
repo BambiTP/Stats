@@ -1,0 +1,1030 @@
+
+MAP
+
+                          ■■■■■■■■■            
+                      ■■■■■       ◥■■■■        
+                      ■▦■■            ◥■■■     
+                 ■■■■■■■■               ☼■■    
+              ■■■◤                        ◥■   
+             ■■☼                           ■■■ 
+            ■■☼             ⤧   ▦            ◥■
+          ■■■☼  ◎  ◢■■■◤        ▦•     ⚑      ■
+          ■▦■     ◢◤ ◢◤         ▦▦            ■
+       ■■■■■◤     ■■■◤          ▦▦            ■
+     ■■◤                      ⤧◢■☢▦•          ■
+   ■■◤                        ◢■■■▦▦▦        ◢■
+  ■■       ⤧            ▦                    ■ 
+ ■■                    •                    ■■ 
+ ■                    ▦            ⤧       ■■  
+■◤        ▦▦▦■■■◤                        ◢■■   
+■          •▦☢■◤⤧                      ◢■■     
+■            ▦▦          ◢■■■     ◢■■■■■       
+■            ▦▦         ◢◤ ◢◤     ■▦■          
+■      ⚑     •▦        ◢■■■◤  ◎  ☼■■■          
+■◣            ▦   ⤧             ☼■■            
+ ■■■                           ☼■■             
+   ■◣                        ◢■■■              
+    ■■☼               ■■■■■■■■                 
+     ■■■◣            ■■▦■                      
+        ■■■■◣       ■■■■■                      
+            ■■■■■■■■■                          
+Map Name: OTI MERALD
+Map Width: 47
+
+TIMELINE
+0:00.00 no name starts in team 1
+0:00.00 phreak starts in team 2
+0:00.00 1deag starts in team 1
+0:00.00 bbb starts in team 2
+0:00.00 jig starts in team 1
+0:00.00 Ball-erina starts in team 2
+0:00.00 tng. starts in team 2
+0:00.00 Altiger starts in team 1
+0:01.93 tng. starts blocking
+0:02.65 no name starts preventing
+0:02.65 Altiger starts preventing
+0:03.47 tng. grabs flag 1
+0:03.65 no name stops preventing
+0:03.65 phreak starts preventing
+0:03.65 bbb starts preventing
+0:03.65 Altiger stops preventing
+0:06.65 no name starts preventing
+0:06.65 1deag starts preventing
+0:06.93 no name returns
+0:06.93 tng. stops blocking
+0:06.93 tng. drops flag 1
+0:07.65 Altiger starts preventing
+0:08.15 bbb starts buttoning
+0:10.05 no name starts blocking
+0:10.65 no name stops preventing
+0:11.62 jig starts blocking
+0:13.15 bbb stops buttoning
+0:13.97 Ball-erina starts blocking
+0:14.65 phreak stops preventing
+0:14.65 bbb stops preventing
+0:14.88 no name grabs flag 1
+0:15.05 no name stops blocking
+0:16.62 jig stops blocking
+0:16.65 phreak starts preventing
+0:16.65 bbb starts preventing
+0:16.77 no name drops flag 1
+0:16.77 phreak returns
+0:17.65 1deag stops preventing
+0:17.65 Altiger stops preventing
+0:18.15 tng. grabs flag 1
+0:18.97 Ball-erina stops blocking
+0:20.65 1deag starts preventing
+0:20.65 Altiger starts preventing
+0:20.70 no name returns
+0:20.70 tng. drops flag 1
+0:21.23 no name pops
+0:21.23 Ball-erina tags
+0:25.63 jig starts blocking
+0:26.65 Altiger stops preventing
+0:27.03 no name starts blocking
+0:27.65 Altiger starts preventing
+0:28.12 1deag starts buttoning
+0:30.25 no name grabs flag 1
+0:30.65 phreak stops preventing
+0:30.65 1deag stops preventing
+0:30.65 bbb stops preventing
+0:30.65 Altiger stops preventing
+0:31.00 Ball-erina grabs flag 1
+0:31.65 phreak starts preventing
+0:31.65 bbb starts preventing
+0:31.70 jig stops blocking
+0:32.03 no name stops blocking
+0:32.03 no name drops flag 1
+0:32.03 bbb returns
+0:32.65 1deag starts preventing
+0:32.65 Altiger starts preventing
+0:32.68 1deag returns
+0:32.68 Ball-erina drops flag 1
+0:33.12 1deag stops buttoning
+0:33.15 bbb starts buttoning
+0:33.52 1deag tags
+0:33.52 tng. pops
+0:33.65 1deag stops preventing
+0:33.65 Altiger stops preventing
+0:37.65 bbb stops preventing
+0:38.65 bbb starts preventing
+0:39.23 Ball-erina starts blocking
+0:39.28 tng. starts blocking
+0:40.45 jig starts blocking
+0:40.65 1deag starts preventing
+0:42.65 Altiger starts preventing
+0:43.12 tng. starts buttoning
+0:43.15 bbb stops buttoning
+0:43.65 1deag stops preventing
+0:43.65 Altiger stops preventing
+0:44.17 Ball-erina grabs flag 1
+0:44.23 Ball-erina stops blocking
+0:44.28 tng. stops blocking
+0:44.85 no name starts blocking
+0:45.23 no name grabs flag 1
+0:45.67 phreak stops preventing
+0:45.67 bbb stops preventing
+0:47.08 jig stops blocking
+0:48.12 tng. stops buttoning
+0:49.67 phreak starts preventing
+0:49.67 bbb starts preventing
+0:49.85 no name stops blocking
+0:49.85 no name drops flag 1
+0:49.85 phreak returns
+0:51.38 Ball-erina captures flag 1
+0:51.63 tng. grabs flag 1
+0:51.67 Ball-erina starts preventing
+0:54.67 phreak stops preventing
+0:54.67 Ball-erina stops preventing
+0:55.67 bbb stops preventing
+0:55.78 jig grabs flag 1
+1:00.23 bbb powers up 4
+1:00.75 Altiger pops
+1:01.02 1deag pops
+1:01.02 bbb tags
+1:01.42 Ball-erina powers up 1
+1:03.15 tng. starts buttoning
+1:05.37 jig starts blocking
+1:06.88 Ball-erina starts blocking
+1:08.15 bbb tags
+1:08.15 Ball-erina starts buttoning
+1:08.15 Altiger pops
+1:10.37 phreak returns
+1:10.37 jig stops blocking
+1:10.37 jig drops flag 1
+1:10.67 phreak starts preventing
+1:10.67 bbb starts preventing
+1:10.67 Ball-erina starts preventing
+1:11.88 Ball-erina stops blocking
+1:12.67 phreak stops preventing
+1:12.67 bbb stops preventing
+1:12.67 Ball-erina stops preventing
+1:12.87 no name pops
+1:12.87 Ball-erina tags
+1:13.15 Ball-erina stops buttoning
+1:13.15 tng. stops buttoning
+1:15.70 tng. captures flag 1
+1:17.48 Ball-erina grabs flag 1
+1:18.15 phreak starts buttoning
+1:18.30 bbb starts blocking
+1:18.57 Ball-erina starts blocking
+1:20.23 bbb powers down 4
+1:21.42 Ball-erina powers down 1
+1:23.15 phreak stops buttoning
+1:23.30 bbb stops blocking
+1:23.57 jig returns
+1:23.57 Ball-erina stops blocking
+1:23.57 Ball-erina drops flag 1
+1:23.67 phreak starts preventing
+1:23.67 Altiger starts preventing
+1:24.33 tng. grabs flag 1
+1:24.67 Altiger stops preventing
+1:25.67 bbb starts preventing
+1:32.53 phreak starts blocking
+1:34.18 bbb starts blocking
+1:37.53 phreak stops blocking
+1:39.18 bbb stops blocking
+1:39.67 1deag starts preventing
+1:39.67 tng. starts preventing
+1:40.07 tng. captures flag 1
+1:41.02 Ball-erina starts blocking
+1:41.67 tng. stops preventing
+1:43.12 Ball-erina starts buttoning
+1:45.28 tng. grabs flag 1
+1:45.67 1deag stops preventing
+1:46.02 Ball-erina stops blocking
+1:48.12 Ball-erina stops buttoning
+1:50.33 tng. starts blocking
+1:51.67 no name grabs flag 1
+1:51.67 phreak stops preventing
+1:51.67 bbb stops preventing
+1:52.07 bbb pops
+1:53.12 Ball-erina starts buttoning
+1:54.70 no name starts blocking
+1:55.33 tng. stops blocking
+1:55.33 tng. drops flag 1
+1:55.33 Altiger returns
+1:55.58 Ball-erina grabs flag 1
+1:58.12 Ball-erina stops buttoning
+1:58.88 jig starts blocking
+1:59.70 no name stops blocking
+1:59.70 no name drops flag 1
+1:59.70 phreak returns
+2:01.50 1deag powers up 1
+2:01.65 jig grabs flag 1
+2:01.68 Altiger powers up 2
+2:01.85 Ball-erina starts blocking
+2:02.08 Altiger starts blocking
+2:03.67 tng. starts preventing
+2:03.88 jig stops blocking
+2:03.88 jig drops flag 1
+2:03.88 tng. returns
+2:05.25 Altiger grabs flag 1
+2:05.67 tng. stops preventing
+2:06.67 no name starts preventing
+2:06.85 1deag returns
+2:06.85 Ball-erina stops blocking
+2:06.85 Ball-erina drops flag 1
+2:07.08 Altiger powers down 2
+2:07.08 Altiger stops blocking
+2:07.18 Altiger starts blocking
+2:09.67 jig starts preventing
+2:11.12 phreak starts blocking
+2:12.12 bbb starts blocking
+2:12.18 tng. returns
+2:12.18 Altiger stops blocking
+2:12.18 Altiger drops flag 1
+2:12.67 Ball-erina starts preventing
+2:13.67 no name stops preventing
+2:13.67 jig stops preventing
+2:14.17 bbb grabs flag 1
+2:14.72 no name starts blocking
+2:15.43 1deag grabs flag 1
+2:15.67 Ball-erina stops preventing
+2:16.07 Altiger starts blocking
+2:16.08 jig starts blocking
+2:16.12 phreak stops blocking
+2:16.67 no name starts preventing
+2:16.67 jig starts preventing
+2:17.12 bbb stops blocking
+2:17.12 bbb drops flag 1
+2:17.12 Altiger returns
+2:18.15 bbb starts buttoning
+2:18.67 Altiger starts preventing
+2:20.93 no name stops blocking
+2:21.07 Altiger stops blocking
+2:21.08 jig stops blocking
+2:21.45 1deag captures flag 1
+2:21.50 1deag powers down 1
+2:21.67 no name stops preventing
+2:21.67 1deag starts preventing
+2:23.15 bbb stops buttoning
+2:25.67 jig stops preventing
+2:26.67 phreak starts preventing
+2:26.67 bbb starts preventing
+2:28.13 1deag starts buttoning
+2:29.67 bbb stops preventing
+2:29.67 Altiger stops preventing
+2:30.25 Ball-erina starts blocking
+2:30.67 1deag stops preventing
+2:30.67 bbb starts preventing
+2:32.43 tng. starts blocking
+2:32.67 1deag starts preventing
+2:33.13 1deag stops buttoning
+2:33.67 Altiger starts preventing
+2:34.67 1deag stops preventing
+2:34.67 Altiger stops preventing
+2:35.08 tng. grabs flag 1
+2:36.15 Ball-erina stops blocking
+2:37.15 1deag pops
+2:37.15 Ball-erina tags
+2:37.43 tng. stops blocking
+2:37.43 tng. drops flag 1
+2:37.43 Altiger returns
+2:37.67 Altiger starts preventing
+2:38.67 Altiger stops preventing
+2:38.78 Ball-erina grabs flag 1
+2:40.25 Ball-erina starts blocking
+2:45.25 Ball-erina stops blocking
+2:45.25 Ball-erina drops flag 1
+2:45.25 Altiger returns
+2:45.67 1deag starts preventing
+2:46.67 Altiger starts preventing
+2:49.67 1deag stops preventing
+2:49.67 Altiger stops preventing
+2:50.67 1deag starts preventing
+2:51.67 Altiger starts preventing
+2:52.67 phreak stops preventing
+2:52.67 bbb stops preventing
+2:52.67 Altiger stops preventing
+2:54.60 jig starts blocking
+2:56.65 no name grabs flag 1
+2:59.60 jig stops blocking
+2:59.68 1deag stops preventing
+3:00.00 tng. grabs flag 1
+3:01.00 no name starts blocking
+3:02.92 bbb powers up 1
+3:04.42 phreak powers up 4
+3:06.00 no name stops blocking
+3:06.00 no name drops flag 1
+3:06.00 bbb returns
+3:06.60 jig starts blocking
+3:07.68 Ball-erina starts preventing
+3:08.47 tng. starts blocking
+3:08.68 Ball-erina stops preventing
+3:09.00 jig grabs flag 1
+3:11.60 bbb returns
+3:11.60 jig stops blocking
+3:11.60 jig drops flag 1
+3:12.95 no name pops
+3:12.95 phreak tags
+3:13.47 1deag returns
+3:13.47 tng. stops blocking
+3:13.47 tng. drops flag 1
+3:13.68 phreak starts preventing
+3:17.68 Ball-erina starts preventing
+3:18.68 no name starts preventing
+3:18.68 phreak stops preventing
+3:18.68 jig starts preventing
+3:18.68 Ball-erina stops preventing
+3:19.27 bbb grabs flag 1
+3:19.58 phreak tags
+3:19.58 Altiger pops
+3:19.68 no name stops preventing
+3:19.68 jig stops preventing
+3:21.62 bbb starts blocking
+3:22.90 bbb powers down 1
+3:24.22 jig starts blocking
+3:24.42 phreak powers down 4
+3:25.77 no name starts blocking
+3:26.62 1deag returns
+3:26.62 bbb stops blocking
+3:26.62 bbb drops flag 1
+3:26.68 Altiger starts preventing
+3:27.38 Ball-erina grabs flag 1
+3:27.68 Altiger stops preventing
+3:28.22 no name grabs flag 1
+3:29.77 jig stops blocking
+3:30.68 phreak starts preventing
+3:30.77 no name stops blocking
+3:30.77 no name drops flag 1
+3:30.77 tng. returns
+3:32.68 bbb starts preventing
+3:33.27 tng. starts blocking
+3:35.87 1deag pops
+3:35.87 tng. tags
+3:36.73 bbb starts blocking
+3:37.73 phreak starts blocking
+3:38.27 tng. stops blocking
+3:42.73 phreak stops blocking
+3:44.30 no name starts blocking
+3:44.50 bbb stops blocking
+3:46.85 phreak starts blocking
+3:47.23 bbb starts blocking
+3:48.55 no name grabs flag 1
+3:48.68 phreak stops preventing
+3:48.68 bbb stops preventing
+3:49.27 1deag starts blocking
+3:49.30 no name stops blocking
+3:49.30 no name drops flag 1
+3:49.30 bbb returns
+3:49.68 phreak starts preventing
+3:49.68 bbb starts preventing
+3:49.75 jig starts blocking
+3:51.85 phreak stops blocking
+3:52.23 bbb stops blocking
+3:53.68 Ball-erina starts preventing
+3:54.15 Ball-erina captures flag 1
+3:54.25 1deag grabs flag 1
+3:54.27 1deag stops blocking
+3:54.68 phreak stops preventing
+3:54.68 bbb stops preventing
+3:54.68 Ball-erina stops preventing
+3:54.98 no name starts blocking
+3:55.02 jig stops blocking
+3:55.68 no name starts preventing
+3:56.68 no name stops preventing
+3:57.57 bbb pops
+3:57.68 no name starts preventing
+3:59.22 tng. starts blocking
+3:59.98 no name stops blocking
+4:00.50 1deag captures flag 1
+4:00.68 1deag starts preventing
+4:01.68 no name stops preventing
+4:01.68 no name starts blocking
+4:01.68 1deag stops preventing
+4:01.93 tng. grabs flag 1
+4:03.18 jig powers up 2
+4:04.08 jig starts blocking
+4:04.22 1deag returns
+4:04.22 tng. stops blocking
+4:04.22 tng. drops flag 1
+4:04.40 Altiger starts blocking
+4:05.52 phreak powers up 2
+4:06.18 no name grabs flag 1
+4:06.68 no name stops blocking
+4:06.68 no name drops flag 1
+4:06.68 bbb returns
+4:06.68 bbb starts preventing
+4:08.13 no name starts buttoning
+4:08.68 bbb stops preventing
+4:08.83 jig grabs flag 1
+4:09.08 jig stops blocking
+4:09.40 Altiger stops blocking
+4:09.68 1deag starts preventing
+4:10.13 phreak starts blocking
+4:10.18 Ball-erina starts blocking
+4:10.65 jig starts blocking
+4:13.08 Altiger starts blocking
+4:13.13 no name stops buttoning
+4:13.68 no name starts preventing
+4:14.68 no name stops preventing
+4:14.68 1deag stops preventing
+4:15.08 Ball-erina grabs flag 1
+4:15.13 phreak stops blocking
+4:15.65 jig powers down 2
+4:15.85 phreak powers down 2
+4:16.22 jig stops blocking
+4:16.22 jig drops flag 1
+4:16.22 tng. returns
+4:16.63 no name returns
+4:16.63 Ball-erina stops blocking
+4:16.63 Ball-erina drops flag 1
+4:16.75 Altiger grabs flag 1
+4:18.08 bbb returns
+4:18.08 Altiger stops blocking
+4:18.08 Altiger drops flag 1
+4:18.68 no name starts preventing
+4:18.68 1deag starts preventing
+4:21.68 no name stops preventing
+4:21.78 jig starts blocking
+4:23.68 Altiger starts preventing
+4:25.68 phreak starts preventing
+4:25.68 bbb starts preventing
+4:26.68 phreak stops preventing
+4:26.68 bbb stops preventing
+4:26.77 jig grabs flag 1
+4:26.78 jig stops blocking
+4:27.02 bbb returns
+4:27.02 jig drops flag 1
+4:27.68 phreak starts preventing
+4:27.68 bbb starts preventing
+4:29.60 Ball-erina pops
+4:29.60 Altiger tags
+4:29.68 Altiger stops preventing
+4:30.63 tng. grabs flag 1
+4:30.68 1deag stops preventing
+4:32.68 tng. starts blocking
+4:37.68 1deag returns
+4:37.68 tng. stops blocking
+4:37.68 tng. drops flag 1
+4:39.70 Altiger starts preventing
+4:40.45 Ball-erina grabs flag 1
+4:40.70 phreak stops preventing
+4:40.70 Altiger stops preventing
+4:41.43 Ball-erina starts blocking
+4:43.72 tng. starts blocking
+4:45.70 phreak starts preventing
+4:46.43 Ball-erina stops blocking
+4:46.43 Ball-erina drops flag 1
+4:46.43 Altiger returns
+4:46.70 1deag starts preventing
+4:46.70 Altiger starts preventing
+4:47.25 tng. grabs flag 1
+4:47.70 1deag stops preventing
+4:47.70 Altiger stops preventing
+4:47.82 jig starts blocking
+4:48.72 1deag returns
+4:48.72 tng. stops blocking
+4:48.72 tng. drops flag 1
+4:52.72 Altiger grabs flag 1
+4:52.82 jig stops blocking
+4:52.97 phreak returns
+4:52.97 Altiger drops flag 1
+4:54.70 tng. starts preventing
+4:56.70 tng. stops preventing
+4:57.15 jig tags
+4:57.15 tng. pops
+4:58.70 bbb stops preventing
+4:58.72 no name pops
+5:00.70 bbb starts preventing
+5:01.70 bbb stops preventing
+5:02.53 tng. starts blocking
+5:02.60 phreak tags
+5:02.60 jig pops
+5:02.70 phreak stops preventing
+5:04.35 tng. powers up 2
+5:04.50 Ball-erina grabs flag 1
+5:05.82 bbb starts blocking
+5:06.43 phreak starts blocking
+5:06.45 1deag powers up 2
+5:07.53 tng. stops blocking
+5:08.45 Ball-erina starts blocking
+5:08.70 phreak starts preventing
+5:08.70 bbb starts preventing
+5:09.23 1deag starts blocking
+5:09.70 Altiger starts blocking
+5:10.48 no name pops
+5:10.48 tng. tags
+5:12.42 bbb stops blocking
+5:12.75 phreak stops blocking
+5:13.45 Ball-erina stops blocking
+5:13.45 Ball-erina drops flag 1
+5:13.45 Altiger returns
+5:13.70 phreak stops preventing
+5:13.70 bbb stops preventing
+5:13.95 jig starts blocking
+5:14.18 jig grabs flag 1
+5:14.28 1deag stops blocking
+5:14.58 tng. grabs flag 1
+5:17.13 Altiger stops blocking
+5:18.70 phreak starts preventing
+5:18.95 bbb returns
+5:18.95 jig stops blocking
+5:18.95 jig drops flag 1
+5:19.23 1deag starts blocking
+5:19.35 1deag grabs flag 1
+5:19.70 phreak stops preventing
+5:19.92 no name starts blocking
+5:19.92 phreak starts blocking
+5:21.52 jig starts blocking
+5:24.23 1deag powers down 2
+5:24.23 1deag stops blocking
+5:24.35 tng. powers down 2
+5:24.92 no name stops blocking
+5:24.92 phreak stops blocking
+5:27.87 Altiger starts blocking
+5:28.00 1deag starts blocking
+5:29.20 jig stops blocking
+5:31.03 Ball-erina starts blocking
+5:32.70 phreak starts preventing
+5:33.00 1deag stops blocking
+5:33.00 1deag drops flag 1
+5:33.00 bbb returns
+5:33.45 no name grabs flag 1
+5:33.53 Altiger stops blocking
+5:33.70 phreak stops preventing
+5:36.03 Ball-erina stops blocking
+5:36.25 1deag starts blocking
+5:37.53 phreak starts blocking
+5:41.25 1deag stops blocking
+5:42.80 phreak stops blocking
+5:43.15 jig starts buttoning
+5:45.53 Altiger starts blocking
+5:48.15 phreak starts buttoning
+5:48.15 jig stops buttoning
+5:49.67 phreak starts blocking
+5:50.53 Altiger stops blocking
+5:51.90 bbb starts blocking
+5:52.70 phreak starts preventing
+5:53.10 no name drops flag 1
+5:53.10 phreak returns
+5:53.13 Ball-erina starts buttoning
+5:53.15 phreak stops buttoning
+5:54.70 bbb starts preventing
+5:56.38 phreak stops blocking
+5:56.45 phreak starts blocking
+5:57.42 1deag starts blocking
+5:57.43 Altiger starts blocking
+5:57.50 tng. starts blocking
+5:58.13 Ball-erina stops buttoning
+6:01.45 phreak stops blocking
+6:02.27 Altiger grabs flag 1
+6:02.43 bbb stops blocking
+6:02.50 1deag returns
+6:02.50 tng. stops blocking
+6:02.50 tng. drops flag 1
+6:02.70 no name starts preventing
+6:02.70 phreak stops preventing
+6:02.70 bbb stops preventing
+6:03.70 no name stops preventing
+6:05.05 1deag stops blocking
+6:05.43 Ball-erina grabs flag 1
+6:05.67 phreak returns
+6:05.67 Altiger stops blocking
+6:05.67 Altiger drops flag 1
+6:05.70 phreak starts preventing
+6:05.70 bbb starts preventing
+6:06.45 tng. starts blocking
+6:06.85 jig powers up 2
+6:06.88 Ball-erina starts blocking
+6:07.70 phreak stops preventing
+6:07.88 no name powers up 4
+6:09.90 1deag starts blocking
+6:10.63 jig starts blocking
+6:11.45 tng. stops blocking
+6:11.88 1deag returns
+6:11.88 Ball-erina stops blocking
+6:11.88 Ball-erina drops flag 1
+6:12.70 phreak starts preventing
+6:14.35 1deag grabs flag 1
+6:14.70 phreak stops preventing
+6:14.70 bbb stops preventing
+6:14.90 phreak returns
+6:14.90 1deag stops blocking
+6:14.90 1deag drops flag 1
+6:15.15 jig grabs flag 1
+6:15.63 jig powers down 2
+6:15.63 jig stops blocking
+6:15.75 no name tags
+6:15.75 bbb pops
+6:16.27 no name tags
+6:16.27 phreak pops
+6:17.03 tng. grabs flag 1
+6:18.15 bbb starts buttoning
+6:19.87 1deag returns
+6:19.87 tng. drops flag 1
+6:22.58 no name tags
+6:22.58 Ball-erina pops
+6:22.60 jig captures flag 1
+6:23.13 1deag starts buttoning
+6:23.15 bbb stops buttoning
+6:24.02 no name starts blocking
+6:27.70 phreak starts preventing
+6:27.70 bbb starts preventing
+6:27.88 no name powers down 4
+6:28.70 phreak stops preventing
+6:28.70 bbb stops preventing
+6:28.80 no name grabs flag 1
+6:30.05 jig starts blocking
+6:30.18 no name stops blocking
+6:30.18 no name drops flag 1
+6:30.18 phreak returns
+6:30.72 phreak starts preventing
+6:30.72 bbb starts preventing
+6:32.72 phreak stops preventing
+6:32.72 bbb stops preventing
+6:33.13 1deag stops buttoning
+6:33.23 jig grabs flag 1
+6:34.72 1deag starts preventing
+6:35.05 bbb returns
+6:35.05 jig stops blocking
+6:35.05 jig drops flag 1
+6:35.72 no name starts preventing
+6:35.72 Altiger starts preventing
+6:36.72 no name stops preventing
+6:38.13 1deag starts buttoning
+6:41.72 1deag stops preventing
+6:41.72 Altiger stops preventing
+6:43.13 1deag stops buttoning
+6:43.72 phreak starts preventing
+6:43.72 1deag starts preventing
+6:43.72 bbb starts preventing
+6:43.72 Altiger starts preventing
+6:49.72 1deag stops preventing
+6:50.05 1deag pops
+6:50.05 Ball-erina tags
+6:50.07 tng. starts blocking
+6:50.53 no name starts blocking
+6:52.25 jig starts blocking
+6:54.43 Ball-erina starts blocking
+6:54.92 tng. grabs flag 1
+6:55.07 tng. stops blocking
+6:55.18 1deag returns
+6:55.18 tng. drops flag 1
+6:55.48 jig grabs flag 1
+6:55.53 no name stops blocking
+6:55.72 phreak stops preventing
+6:55.72 1deag starts preventing
+6:55.72 bbb stops preventing
+6:56.53 Ball-erina grabs flag 1
+6:56.72 phreak starts preventing
+6:56.72 1deag stops preventing
+6:56.72 bbb starts preventing
+6:56.72 Altiger stops preventing
+6:57.25 bbb returns
+6:57.25 jig stops blocking
+6:57.25 jig drops flag 1
+6:59.43 1deag returns
+6:59.43 Ball-erina stops blocking
+6:59.43 Ball-erina drops flag 1
+6:59.72 phreak stops preventing
+6:59.72 bbb stops preventing
+7:07.68 phreak starts blocking
+7:08.48 Altiger powers up 4
+7:08.52 phreak powers up 2
+7:08.70 tng. pops
+7:08.70 Altiger tags
+7:08.93 Altiger pops
+7:10.72 bbb starts preventing
+7:11.72 jig starts preventing
+7:11.72 Ball-erina starts preventing
+7:12.47 phreak grabs flag 1
+7:12.68 phreak stops blocking
+7:12.72 jig stops preventing
+7:12.80 tng. starts blocking
+7:17.80 tng. stops blocking
+7:18.92 jig starts blocking
+7:20.72 Ball-erina stops preventing
+7:21.02 phreak powers down 2
+7:21.42 phreak captures flag 1
+7:21.72 phreak starts preventing
+7:22.58 tng. grabs flag 1
+7:23.33 jig grabs flag 1
+7:23.92 bbb returns
+7:23.92 jig stops blocking
+7:23.92 jig drops flag 1
+7:26.70 no name grabs flag 1
+7:26.72 phreak stops preventing
+7:26.72 bbb stops preventing
+7:28.48 Altiger powers down 4
+7:28.98 phreak starts blocking
+7:28.98 jig starts blocking
+7:29.27 Ball-erina starts blocking
+7:29.27 Altiger starts blocking
+7:33.13 no name starts buttoning
+7:33.13 Ball-erina starts buttoning
+7:33.98 phreak stops blocking
+7:34.27 Altiger stops blocking
+7:34.50 jig stops blocking
+7:35.62 Ball-erina stops blocking
+7:37.83 Ball-erina tags
+7:37.83 Altiger pops
+7:38.13 no name stops buttoning
+7:38.13 Ball-erina stops buttoning
+7:42.35 no name returns
+7:42.35 no name drops flag 1
+7:42.35 tng. returns
+7:42.35 tng. drops flag 1
+7:42.72 bbb starts preventing
+7:43.13 no name starts buttoning
+7:43.72 Altiger starts preventing
+7:44.45 Ball-erina grabs flag 1
+7:44.72 Altiger stops preventing
+7:45.72 phreak starts preventing
+7:46.87 Ball-erina starts blocking
+7:48.13 no name stops buttoning
+7:51.87 1deag returns
+7:51.87 Ball-erina stops blocking
+7:51.87 Ball-erina drops flag 1
+7:57.72 no name starts preventing
+7:58.13 1deag starts buttoning
+7:58.72 1deag starts preventing
+7:58.72 bbb stops preventing
+7:59.72 phreak stops preventing
+8:03.13 1deag stops buttoning
+8:04.72 no name stops preventing
+8:04.72 1deag stops preventing
+8:07.72 no name starts preventing
+8:08.67 jig powers up 2
+8:08.82 Altiger starts blocking
+8:09.15 Ball-erina powers up 2
+8:09.77 Ball-erina starts blocking
+8:11.52 Altiger grabs flag 1
+8:11.95 tng. starts blocking
+8:12.72 no name stops preventing
+8:13.13 tng. starts buttoning
+8:13.17 Ball-erina grabs flag 1
+8:13.25 jig starts blocking
+8:13.72 bbb starts preventing
+8:13.82 phreak returns
+8:13.82 Altiger stops blocking
+8:13.82 Altiger drops flag 1
+8:14.40 jig grabs flag 1
+8:14.72 bbb stops preventing
+8:14.77 Ball-erina powers down 2
+8:16.95 tng. stops blocking
+8:18.13 tng. stops buttoning
+8:18.15 phreak starts buttoning
+8:18.15 bbb starts buttoning
+8:18.25 jig powers down 2
+8:18.25 jig stops blocking
+8:18.75 1deag returns
+8:18.75 Ball-erina stops blocking
+8:18.75 Ball-erina drops flag 1
+8:19.72 Altiger starts preventing
+8:20.43 phreak returns
+8:20.43 jig drops flag 1
+8:21.50 tng. starts blocking
+8:22.72 phreak starts preventing
+8:22.72 bbb starts preventing
+8:23.15 phreak stops buttoning
+8:23.15 bbb stops buttoning
+8:23.38 tng. grabs flag 1
+8:23.72 Altiger stops preventing
+8:23.83 1deag starts blocking
+8:23.90 no name starts blocking
+8:26.50 jig returns
+8:26.50 tng. stops blocking
+8:26.50 tng. drops flag 1
+8:28.13 jig starts buttoning
+8:28.15 no name starts buttoning
+8:28.72 phreak stops preventing
+8:28.72 bbb stops preventing
+8:28.73 1deag grabs flag 1
+8:29.72 jig starts preventing
+8:29.72 Altiger starts preventing
+8:30.87 no name stops blocking
+8:31.72 jig stops preventing
+8:31.72 Altiger stops preventing
+8:31.98 Ball-erina starts blocking
+8:32.65 1deag stops blocking
+8:32.65 1deag drops flag 1
+8:32.65 bbb returns
+8:33.13 jig stops buttoning
+8:33.15 no name stops buttoning
+8:34.60 Altiger starts blocking
+8:34.62 1deag starts blocking
+8:34.78 no name grabs flag 1
+8:35.75 bbb starts blocking
+8:35.95 Ball-erina grabs flag 1
+8:36.32 tng. starts blocking
+8:36.72 jig starts preventing
+8:36.98 Ball-erina stops blocking
+8:36.98 Ball-erina drops flag 1
+8:36.98 Altiger returns
+8:37.72 Altiger starts preventing
+8:38.15 Ball-erina starts buttoning
+8:38.72 1deag starts preventing
+8:39.60 Altiger stops blocking
+8:39.62 1deag stops blocking
+8:39.72 no name starts preventing
+8:39.72 jig stops preventing
+8:40.23 no name captures flag 1
+8:40.72 no name stops preventing
+8:40.72 1deag stops preventing
+8:40.72 Altiger stops preventing
+8:40.73 tng. grabs flag 1
+8:40.92 bbb stops blocking
+8:41.32 1deag returns
+8:41.32 tng. stops blocking
+8:41.32 tng. drops flag 1
+8:41.72 no name starts preventing
+8:41.72 1deag starts preventing
+8:41.72 Altiger starts preventing
+8:42.03 jig starts blocking
+8:42.72 no name stops preventing
+8:42.72 1deag stops preventing
+8:42.72 Altiger stops preventing
+8:43.15 Ball-erina stops buttoning
+8:43.72 Ball-erina starts preventing
+8:44.28 jig grabs flag 1
+8:44.72 Ball-erina stops preventing
+8:47.03 jig stops blocking
+8:47.03 jig drops flag 1
+8:47.03 tng. returns
+8:47.72 phreak starts preventing
+8:47.72 1deag starts preventing
+8:47.72 Ball-erina starts preventing
+8:48.72 Altiger starts preventing
+8:50.72 phreak stops preventing
+8:50.72 Ball-erina stops preventing
+8:50.72 Altiger stops preventing
+8:51.72 Altiger starts preventing
+8:52.72 phreak starts preventing
+8:52.72 1deag stops preventing
+8:52.72 Altiger stops preventing
+8:56.72 1deag starts preventing
+8:56.72 Ball-erina starts preventing
+8:56.72 Altiger starts preventing
+9:00.72 Ball-erina stops preventing
+9:01.72 phreak stops preventing
+9:03.72 1deag stops preventing
+9:06.72 Altiger stops preventing
+9:08.72 phreak starts preventing
+9:09.05 jig starts blocking
+9:09.22 bbb powers up 2
+9:09.72 phreak stops preventing
+9:09.82 no name grabs flag 1
+9:10.35 tng. powers up 1
+9:11.57 bbb starts blocking
+9:12.02 tng. starts blocking
+9:13.15 phreak starts buttoning
+9:14.20 bbb grabs flag 1
+9:14.95 jig stops blocking
+9:15.40 jig pops
+9:16.57 bbb powers down 2
+9:16.57 bbb stops blocking
+9:17.02 tng. stops blocking
+9:17.83 tng. starts blocking
+9:18.15 phreak stops buttoning
+9:18.42 Ball-erina starts blocking
+9:20.50 no name returns
+9:20.50 no name drops flag 1
+9:20.50 bbb returns
+9:20.50 bbb drops flag 1
+9:21.00 1deag pops
+9:22.07 Altiger grabs flag 1
+9:22.17 Ball-erina grabs flag 1
+9:23.42 jig returns
+9:23.42 Ball-erina stops blocking
+9:23.42 Ball-erina drops flag 1
+9:23.73 jig starts preventing
+9:24.38 tng. grabs flag 1
+9:24.73 jig stops preventing
+9:24.88 jig starts blocking
+9:26.98 no name returns
+9:26.98 tng. stops blocking
+9:26.98 tng. drops flag 1
+9:29.45 no name starts blocking
+9:29.47 1deag starts blocking
+9:29.88 jig stops blocking
+9:30.35 tng. powers down 1
+9:31.73 no name starts preventing
+9:31.73 1deag starts preventing
+9:35.82 1deag stops blocking
+9:36.73 no name stops preventing
+9:37.68 no name stops blocking
+9:39.73 no name starts preventing
+9:40.73 no name stops preventing
+9:41.73 no name starts preventing
+9:43.75 tng. pops
+9:45.58 Altiger starts blocking
+9:48.15 jig starts buttoning
+9:50.58 tng. returns
+9:50.58 Altiger stops blocking
+9:50.58 Altiger drops flag 1
+9:51.82 jig starts blocking
+9:53.15 jig stops buttoning
+9:54.22 jig grabs flag 1
+9:56.73 Altiger starts preventing
+9:56.82 jig stops blocking
+9:56.82 jig drops flag 1
+9:56.82 tng. returns
+9:59.73 no name stops preventing
+9:59.73 1deag stops preventing
+9:59.73 Altiger stops preventing
+10:00.03 no name ends in team 1
+10:00.03 phreak ends in team 2
+10:00.03 1deag ends in team 1
+10:00.03 bbb ends in team 2
+10:00.03 jig ends in team 1
+10:00.03 Ball-erina ends in team 2
+10:00.03 tng. ends in team 2
+10:00.03 Altiger ends in team 1
+
+TEAM 1 (MWOP) SPLATS
+0:16.77 (1745,480)
+0:21.23 (548,762)
+0:32.03 (1562,177)
+0:49.85 (1745,239)
+1:00.75 (1253,781)
+1:01.02 (1228,688)
+1:08.15 (1302,75)
+1:10.37 (1627,202)
+1:12.87 (1394,371)
+1:59.70 (521,750)
+2:03.88 (1424,113)
+2:12.18 (814,885)
+2:37.15 (533,822)
+3:06.00 (307,720)
+3:11.60 (884,814)
+3:12.95 (1287,61)
+3:19.58 (1568,600)
+3:30.77 (1529,542)
+3:35.87 (894,533)
+3:49.30 (1801,285)
+4:06.68 (1764,318)
+4:16.22 (649,451)
+4:18.08 (1553,382)
+4:27.02 (1564,267)
+4:52.97 (1529,264)
+4:58.72 (1568,128)
+5:02.60 (1390,366)
+5:10.48 (487,688)
+5:18.95 (1425,585)
+5:33.00 (1188,58)
+5:53.10 (1446,451)
+6:05.67 (1700,439)
+6:14.90 (1523,243)
+6:30.18 (1525,252)
+6:35.05 (1798,319)
+6:50.05 (544,775)
+6:57.25 (1603,244)
+7:08.93 (592,246)
+7:23.92 (1558,257)
+7:37.83 (481,660)
+7:42.35 (837,775)
+8:13.82 (1334,88)
+8:20.43 (1347,384)
+8:32.65 (1017,373)
+8:47.03 (1460,273)
+9:15.40 (1223,812)
+9:20.50 (630,323)
+9:21.00 (564,272)
+9:50.58 (707,516)
+9:56.82 (1372,161)
+
+TEAM 2 (MTOC) SPLATS
+0:06.93 (235,559)
+0:20.70 (595,736)
+0:32.68 (443,605)
+0:33.52 (495,678)
+1:23.57 (1199,622)
+1:52.07 (1599,153)
+1:55.33 (1200,147)
+2:06.85 (1398,460)
+2:17.12 (388,937)
+2:37.43 (455,961)
+2:45.25 (392,956)
+3:13.47 (1392,201)
+3:26.62 (1168,661)
+3:57.57 (907,545)
+4:04.22 (120,719)
+4:16.63 (84,570)
+4:29.60 (484,719)
+4:37.68 (696,571)
+4:46.43 (148,520)
+4:48.72 (437,825)
+4:57.15 (1294,292)
+5:13.45 (1561,190)
+6:02.50 (1496,283)
+6:11.88 (1474,299)
+6:15.75 (1335,342)
+6:16.27 (1343,264)
+6:19.87 (481,695)
+6:22.58 (772,818)
+6:55.18 (254,785)
+6:59.43 (281,770)
+7:08.70 (671,270)
+7:42.35 (874,780)
+7:51.87 (1084,254)
+8:18.75 (567,397)
+8:26.50 (587,427)
+8:36.98 (46,729)
+8:41.32 (276,818)
+9:20.50 (608,347)
+9:23.42 (200,806)
+9:26.98 (184,507)
+9:43.75 (918,552)
+
