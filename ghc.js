@@ -2,6 +2,7 @@
 const lastAction = {};
         // Function to handle file input
         // Function to handle file input
+getFiles(); 
 async function getFiles() {
     const folderPath = 'stats/matches';
 
