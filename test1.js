@@ -27,12 +27,3 @@
         }
 
         // Function to combine stats1 and stats2 when the button is clicked
-        document.getElementById("combineButton").addEventListener("click", function() {
-            // Create the stats3 object by combining properties of stats1 and stats2
-            var stats3 = combineObjects(stats, stats1);
-console.log('Actions:', actions);
-console.log('Team 1:', team1);
-console.log('Team 2:', team2);
-            // Log the stats3 object to the console
-            console.log(stats3);
-        });
