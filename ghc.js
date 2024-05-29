@@ -290,7 +290,6 @@ aprocessRegrabs(allRegrabs, actions, stats) ;
         }
 
         // Add event listener to file input element
-document.getElementById('fileInput').addEventListener('change', handleFileSelect, false);
         // Parse map function
         function parseMap(text) {
             // Find the portion of the text between "MAP" and "TIMELINE"
@@ -345,20 +344,6 @@ document.getElementById('fileInput').addEventListener('change', handleFileSelect
             return mapData;
         }
 
-        // Function to handle file input change
-        document.getElementById('fileInput').addEventListener('change', function(e) {
-            const file = e.target.files[0];
-            if (!file) return;
-
-            const reader = new FileReader();
-            reader.onload = function(e) {
-                const text = e.target.result;
-                const parsedMap = parseMap(text);
-                console.log(parsedMap); // Log the parsed map object to the console
-                document.getElementById('ascii-map').textContent = JSON.stringify(parsedMap, null, 2);
-            };
-            reader.readAsText(file);
-        });
 function aprocessHandoffs(allHandoffs, actions, stats) {
     for (const handoff of allHandoffs) {
         const { giveName, giveTimestamp, dropPlayerName } = handoff;
